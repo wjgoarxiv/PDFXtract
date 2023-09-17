@@ -20,12 +20,14 @@
 - Download the `.exe` file from the [Releases](https://github.com/wjgoarxiv/PDFXtract/releases) page.
 - Double-click the `.exe` file to install PDFXtract.
 - Follow the on-screen instructions to complete the installation.
+- You can press [here](https://github.com/wjgoarxiv/PDFXtract/releases/download/PDFXtractV1.0.0/PDFXtractorV1.0.0.exe), too. 
 
 ### For macOS Users
 
 - Download the `.dmg` file from the [Releases](https://github.com/wjgoarxiv/PDFXtract/releases) page.
 - Double-click the `.dmg` file to mount it.
 - Drag the `PDFXtract.app` into your Applications folder.
+- You can press [here](https://github.com/wjgoarxiv/PDFXtract/releases/download/PDFXtractV1.0.0/PDFXtractV1.0.0.dmg), too. 
 
 ## How to Use
 
