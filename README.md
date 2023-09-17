@@ -1,6 +1,10 @@
 # PDFXtract
 ::A cross-platform utility that converts PDF documents into Markdown-formatted text::
 
+| Windows | macOS |
+| :-----: | :---: |
+| <img src="mac-preview.png" width="70%"> | <img src="win-preview.png" width="100%"> |
+
 ## Description
 
 **PDFXtract** is a simple yet powerful utility for converting PDF files to plain text with Markdown formatting. Whether you are an academic researcher, a data analyst, or just someone who needs to extract text from a PDF document, PDFXtract has got you covered.
