@@ -49,7 +49,7 @@
 
 ## Contributing
 
-We welcome contributions from the community. Feel free to submit issues or create pull requests.
+I welcome contributions from the community. Feel free to submit issues or create pull requests.
 
 ## License
 
