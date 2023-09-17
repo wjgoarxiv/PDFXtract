@@ -29,6 +29,12 @@
 - Drag the `PDFXtract.app` into your Applications folder.
 - You can press [here](https://github.com/wjgoarxiv/PDFXtract/releases/download/PDFXtractV1.0.0/PDFXtractV1.0.0.dmg), too. 
 
+### Use `src.py` for your custom use
+
+- Download the `src.py` and `requirements.txt` files.
+- Install the required packages using `pip install -r requirements.txt`.
+- Run the `src.py` file using `python src.py` or `python3 src.py`.
+
 ## How to Use
 
 1. **Open PDF File**: Click the "Open PDF File" button to load your PDF.
