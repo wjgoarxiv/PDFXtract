@@ -1,7 +1,7 @@
 # PDFXtract
 ::A cross-platform utility that converts PDF documents into Markdown-formatted text::
 
-| Windows | macOS |
+| MacOS | Windows |
 | :-----: | :---: |
 | <img src="mac-preview.png" width="70%"> | <img src="win-preview.png" width="100%"> |
 
